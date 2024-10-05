@@ -1,0 +1,441 @@
+public_identifier,starts_at_day,starts_at_month,starts_at_year,ends_at_day,ends_at_month,ends_at_year,title,description,url
+,,,,,,,,,
+,,,,,,,,,
+"adammgrant",,,,,,,,,
+"adammgrant",,,,,,,,,
+"adarsh-pathange",,,,,,,,,
+"adarsh-pathange",,,,,,,,,
+"ajjames","1","11","2010",,,,"Sample Central","Global franchise development, roll-out of network and partners across international marketing, multi-language SaaS big-data engine processing millions of consumer insights - driving business decision making for MNCs, opening and operating Sample Central stores. Large global B2B Sales.","http://www.sample-central.com"
+"ajjames","1","11","2010",,,,"Sample Central","Global franchise development, roll-out of network and partners across international marketing, multi-language SaaS big-data engine processing millions of consumer insights - driving business decision making for MNCs, opening and operating Sample Central stores. Large global B2B Sales.","http://www.sample-central.com"
+"akshatha-ganji",,,,,,,,,
+"akshatha-ganji",,,,,,,,,
+"alfredo-garrachon","1","10","2023","31","12","2023","Artificial Intelligence Approach for Optimization and Refinement of Psychological Analysis","This project explores the application of deep learning and machine learning techniques to enhance psychological testing. Centered on investigating the feasibility of reducing the number of questions in a psychological test without compromising the validity of the results.
+
+The conclusions of this projects aim to answer the following reflection: it is preferable to maintain the number of original questions with ideally more valid results or to reduce the number of questions so that the user is more likely to take the test and maintain attention during the test despite theoretically not having full accuracy.
+
+To answer this, deep learning and machine learning techniques are employed. The methodology includes researching the theory and basis of the most commonly used psychological tests, training different models with data open source data from a psychological test, using different feature selection techniques to identify the most relevant questions, and then training optimized models with a reduced number of features to compare the outcomes.
+
+For more information, results, references and description of the project, please refer to the paper. To reproduce the results, please refer to the repository",
+"alfredo-garrachon","1","10","2022","30","9","2023","THAURUS: An innovative multimodal chatbot based on the next generation of conversational AI","The next generation of conversational AI has brought incredible capabilities such as high contextuality, naturalness, multimodality, and extended knowledge, but also important challenges such as high user expectations, high latencies, large computa- tional requirements, as well as more subtle problems such as mismatch on existing databases for fine-tuning purposes, difficulties for pre-trained LLMs models to handle dialogue interactions, and the integration of multimodal capabilities.
+
+This paper describes the architecture, methodology, and results of our THAURUS chatbot developed for the Alexa Prize Socialbot Grand Challenge (SGC5). Our proposal relies on several innovative ideas to take advantage of existing LLMs to create engaging user experiences that are capable of handling real users in a scalable way and without compromising the competition rules. Different SotA dialogue generators were fine-tuned and incorporated to give variability and handling the wide range of topic conversations; we also developed mechanisms to control the quality of the responses (e.g., detecting and handling toxic interactions, keeping topic coherence, and increasing engagement by providing up-to-date information in a conversational style).
+
+In addition, our system extends the capabilities of the Cobot architecture by in- corporating modules to automatically generate images, provide voice cloning capabilities with fictional characters, serve contextual sounds for detected entities in the dialogue, better capitalization and punctuation capabilities, and to provide natural expressions of interest.
+
+Finally, we also included a trained generative selector and a reference-free model for automatic evaluation of turns that could reduce latencies and complement the ranker’s capabilities to select the best generative answer.",
+"alfredo-garrachon","1","10","2023","31","12","2023","Artificial Intelligence Approach for Optimization and Refinement of Psychological Analysis","This project explores the application of deep learning and machine learning techniques to enhance psychological testing. Centered on investigating the feasibility of reducing the number of questions in a psychological test without compromising the validity of the results.
+
+The conclusions of this projects aim to answer the following reflection: it is preferable to maintain the number of original questions with ideally more valid results or to reduce the number of questions so that the user is more likely to take the test and maintain attention during the test despite theoretically not having full accuracy.
+
+To answer this, deep learning and machine learning techniques are employed. The methodology includes researching the theory and basis of the most commonly used psychological tests, training different models with data open source data from a psychological test, using different feature selection techniques to identify the most relevant questions, and then training optimized models with a reduced number of features to compare the outcomes.
+
+For more information, results, references and description of the project, please refer to the paper. To reproduce the results, please refer to the repository",
+"alfredo-garrachon","1","10","2022","30","9","2023","THAURUS: An innovative multimodal chatbot based on the next generation of conversational AI","The next generation of conversational AI has brought incredible capabilities such as high contextuality, naturalness, multimodality, and extended knowledge, but also important challenges such as high user expectations, high latencies, large computa- tional requirements, as well as more subtle problems such as mismatch on existing databases for fine-tuning purposes, difficulties for pre-trained LLMs models to handle dialogue interactions, and the integration of multimodal capabilities.
+
+This paper describes the architecture, methodology, and results of our THAURUS chatbot developed for the Alexa Prize Socialbot Grand Challenge (SGC5). Our proposal relies on several innovative ideas to take advantage of existing LLMs to create engaging user experiences that are capable of handling real users in a scalable way and without compromising the competition rules. Different SotA dialogue generators were fine-tuned and incorporated to give variability and handling the wide range of topic conversations; we also developed mechanisms to control the quality of the responses (e.g., detecting and handling toxic interactions, keeping topic coherence, and increasing engagement by providing up-to-date information in a conversational style).
+
+In addition, our system extends the capabilities of the Cobot architecture by in- corporating modules to automatically generate images, provide voice cloning capabilities with fictional characters, serve contextual sounds for detected entities in the dialogue, better capitalization and punctuation capabilities, and to provide natural expressions of interest.
+
+Finally, we also included a trained generative selector and a reference-free model for automatic evaluation of turns that could reduce latencies and complement the ranker’s capabilities to select the best generative answer.",
+"andy-jassy-8b1615",,,,,,,,,
+"andy-jassy-8b1615",,,,,,,,,
+"angelwilson36",,,,,,,,,
+"angelwilson36",,,,,,,,,
+"aravind-ellandula-a23163206",,,,,,,,,
+"aravind-ellandula-a23163206",,,,,,,,,
+"arshamg",,,,,,,,,
+"arshamg",,,,,,,,,
+"avani-sathe-0026a5203",,,,,,,,,
+"avani-sathe-0026a5203",,,,,,,,,
+"ayutialgur",,,,,,,,,
+"ayutialgur",,,,,,,,,
+"barackobama",,,,,,,,,
+"barackobama",,,,,,,,,
+"berkgokova","1","2","2021","30","6","2022","Civic Involvement Project: Design of a water-free siphon mechanism based on capsules to prevent sanitation related problems and minimize water consumption","2.3 billion people are deprived of basic sanitation systems due to lack of plumbing. Excretory wastes released into rivers and soil cause the rapid spread of many tropical deadly diseases, causing 775,000 deaths each year. Moreover, unsafe sanitation causes many social problems for education and gender equality. After an extensive research, we offered an innovative solution to the topic and designed a water-free siphon mechanism via SolidWorks.",
+"berkgokova","1","2","2021","30","6","2022","Civic Involvement Project: Design of a water-free siphon mechanism based on capsules to prevent sanitation related problems and minimize water consumption","2.3 billion people are deprived of basic sanitation systems due to lack of plumbing. Excretory wastes released into rivers and soil cause the rapid spread of many tropical deadly diseases, causing 775,000 deaths each year. Moreover, unsafe sanitation causes many social problems for education and gender equality. After an extensive research, we offered an innovative solution to the topic and designed a water-free siphon mechanism via SolidWorks.",
+"berniefloresca",,,,,,,,,
+"berniefloresca",,,,,,,,,
+"brian-j-porter",,,,,,,,,
+"brian-j-porter",,,,,,,,,
+"calvinnobles",,,,,,,,,
+"calvinnobles",,,,,,,,,
+"ch-divyesh-b17a9a171",,,,,,,,,
+"ch-divyesh-b17a9a171",,,,,,,,,
+"chaitanya-bejjanki-55ba91171",,,,,,,,,
+"chaitanya-bejjanki-55ba91171",,,,,,,,,
+"chriskempczinski",,,,,,,,,
+"chriskempczinski",,,,,,,,,
+"cira-pozo-sanchez","1","1","2023","30","6","2023","Advanced Deployment Study of 5G Infrastructures and Satellite Communications in isolated areas","Led the organization and management of the project team, applying positioning techniques and overseeing the integration of satellite networks. Additionally, we optimized fixed and mobile networks with 5G technologies. We integrated 5G and IoT systems for Smart Cities, demonstrating strategic and creative skills. Comprehensive infrastructure modernization highlighted my ability to manage large-scale projects, merging competencies in emerging technologies, network analysis and implementation strategies.",
+"cira-pozo-sanchez","1","1","2022","30","6","2022","Development of a Hyperledger-based Self-Sovereign Identity solution through FIWARE Identity Manager","Developed a self-sovereign identity solution using the Hyperledger framework, involving the creation of a distributed ledger for decentralized identifiers and verifiable credentials. Constructed an agent for issuing verifiable credentials, with integration into FIWARE's Keyrock Identity Manager an EU-promoted open-source platform for future Internet applications. The project essentially empowers the issuance of a verifiable, DID-based credential within Keyrock, enhancing user control and trust in identity verification processes.",
+"cira-pozo-sanchez","1","1","2023","30","6","2023","Advanced Deployment Study of 5G Infrastructures and Satellite Communications in isolated areas","Led the organization and management of the project team, applying positioning techniques and overseeing the integration of satellite networks. Additionally, we optimized fixed and mobile networks with 5G technologies. We integrated 5G and IoT systems for Smart Cities, demonstrating strategic and creative skills. Comprehensive infrastructure modernization highlighted my ability to manage large-scale projects, merging competencies in emerging technologies, network analysis and implementation strategies.",
+"cira-pozo-sanchez","1","1","2022","30","6","2022","Development of a Hyperledger-based Self-Sovereign Identity solution through FIWARE Identity Manager","Developed a self-sovereign identity solution using the Hyperledger framework, involving the creation of a distributed ledger for decentralized identifiers and verifiable credentials. Constructed an agent for issuing verifiable credentials, with integration into FIWARE's Keyrock Identity Manager an EU-promoted open-source platform for future Internet applications. The project essentially empowers the issuance of a verifiable, DID-based credential within Keyrock, enhancing user control and trust in identity verification processes.",
+"deekshitha-gangam","1","10","2023","30","11","2023","SheShield: Women's Safety Application","Developed and led implementation of SheShield, a women's safety application focused on providing an
+innovative and reliable security solution.
+Integrated Firebase authentication to establish a secure user access system, ensuring the privacy and safety of users.
+Implemented background services for continuous location monitoring, enabling real-time updates for
+emergency contacts and reducing response times during critical situations.
+Designed and optimized the user-friendly interface, emphasizing simplicity for efficient use, especially in high-
+stress scenarios.
+Collaborated with cross-functional teams, including product managers and UX/UI designers, to align
+development goals with the overall vision and mission of SheShield.",
+"deekshitha-gangam","1","10","2020","31","3","2021","Hiding Fingerprint In an Iris Image Based on Texture Feature","Developed software to hide secret information and data within an image or video to avoid detection using MATLAB.
+Optimized using technologies such as steganography, cryptography, and DWT, resulting in a 10% improvement in performance and a 5% reduction in security risks.
+Collaborated with cross-disciplinary teams, including experts in image processing, cryptography, and artificial intelligence, to ensure a comprehensive approach to data concealment.
+Successfully managed the project timeline from conceptualization to implementation, demonstrating strong project management skills.",
+"deekshitha-gangam","1","10","2023","30","11","2023","SheShield: Women's Safety Application","Developed and led implementation of SheShield, a women's safety application focused on providing an
+innovative and reliable security solution.
+Integrated Firebase authentication to establish a secure user access system, ensuring the privacy and safety of users.
+Implemented background services for continuous location monitoring, enabling real-time updates for
+emergency contacts and reducing response times during critical situations.
+Designed and optimized the user-friendly interface, emphasizing simplicity for efficient use, especially in high-
+stress scenarios.
+Collaborated with cross-functional teams, including product managers and UX/UI designers, to align
+development goals with the overall vision and mission of SheShield.",
+"deekshitha-gangam","1","10","2020","31","3","2021","Hiding Fingerprint In an Iris Image Based on Texture Feature","Developed software to hide secret information and data within an image or video to avoid detection using MATLAB.
+Optimized using technologies such as steganography, cryptography, and DWT, resulting in a 10% improvement in performance and a 5% reduction in security risks.
+Collaborated with cross-disciplinary teams, including experts in image processing, cryptography, and artificial intelligence, to ensure a comprehensive approach to data concealment.
+Successfully managed the project timeline from conceptualization to implementation, demonstrating strong project management skills.",
+"diwakar-nayak-01355020a","1","10","2020","31","3","2021","Indian Currency Denomination Recognition and  Fake Currency Identification","● Designed and developed a robust and accurate system for Indian currency denomination recognition and fake currency identification using advanced image processing and machine learning techniques.
+● Trained and fine-tuned machine learning models on a large dataset of Indian currency notes to achieve high accuracy in denomination recognition and counterfeit detection.
+● Implemented various image pre-processing techniques to enhance the quality of the input images, such as denoising, contrast enhancement, and edge detection.
+● Utilized feature extraction techniques such as Scale-Invariant Feature Transform (SIFT) and Local Binary Patterns (LBP) to extract relevant features from the input images for classification.
+● Employed a variety of machine learning algorithms such as Support Vector Machines (SVM), Random Forest, and Convolutional Neural Networks (CNN) for classification and achieved high accuracy in detecting counterfeit notes.
+● Conducted rigorous testing and validation of the system using a diverse set of real-world currency notes to ensure
+its robustness and reliability in practical scenarios.
+● Technologies used: Python, Image Processing, OpenCV, Deep learning, CNN.",
+"diwakar-nayak-01355020a","1","10","2020","31","3","2021","Indian Currency Denomination Recognition and  Fake Currency Identification","● Designed and developed a robust and accurate system for Indian currency denomination recognition and fake currency identification using advanced image processing and machine learning techniques.
+● Trained and fine-tuned machine learning models on a large dataset of Indian currency notes to achieve high accuracy in denomination recognition and counterfeit detection.
+● Implemented various image pre-processing techniques to enhance the quality of the input images, such as denoising, contrast enhancement, and edge detection.
+● Utilized feature extraction techniques such as Scale-Invariant Feature Transform (SIFT) and Local Binary Patterns (LBP) to extract relevant features from the input images for classification.
+● Employed a variety of machine learning algorithms such as Support Vector Machines (SVM), Random Forest, and Convolutional Neural Networks (CNN) for classification and achieved high accuracy in detecting counterfeit notes.
+● Conducted rigorous testing and validation of the system using a diverse set of real-world currency notes to ensure
+its robustness and reliability in practical scenarios.
+● Technologies used: Python, Image Processing, OpenCV, Deep learning, CNN.",
+"entrust",,,,,,,,,
+"entrust",,,,,,,,,
+"fortnow",,,,,,,,,
+"fortnow",,,,,,,,,
+"gazcarater",,,,,,,"Development of a Restaurant Management System","Developed a web-app  with a connected database that was used as a Restaurant Management Systems. It allowed to add new restaurants, new meals, new clients and add new orders. Used Oracle as RDBMS and use Java Script as programming language.",
+"gazcarater",,,,,,,"Development of a tool for realistic network traffic generation and orchestration based on user behavior","Developed an innovative tool to create and coordinate realistic network traffic based on user behavior
+patterns. It aims to provide an accurate simulation of user interactions on a network, enabling
+comprehensive testing and analysis of network infrastructure.
+Traffic was created by commands entered in Linux terminal and checked by Wireshark. The tool was
+developed with Python",
+"gazcarater",,,,,,,"Development of a Restaurant Management System","Developed a web-app  with a connected database that was used as a Restaurant Management Systems. It allowed to add new restaurants, new meals, new clients and add new orders. Used Oracle as RDBMS and use Java Script as programming language.",
+"gazcarater",,,,,,,"Development of a tool for realistic network traffic generation and orchestration based on user behavior","Developed an innovative tool to create and coordinate realistic network traffic based on user behavior
+patterns. It aims to provide an accurate simulation of user interactions on a network, enabling
+comprehensive testing and analysis of network infrastructure.
+Traffic was created by commands entered in Linux terminal and checked by Wireshark. The tool was
+developed with Python",
+"gopal-raj-suresh-d",,,,,,,,,
+"gopal-raj-suresh-d",,,,,,,,,
+"harshal29","1","1","2021","31","5","2021","Parametric Design and Analysis of Machine Elements using Python ","A software capable of generating AutoCAD drawings through automated process, with the use of Python libraries.",
+"harshal29","1","1","2021","31","5","2021","Parametric Design and Analysis of Machine Elements using Python ","A software capable of generating AutoCAD drawings through automated process, with the use of Python libraries.",
+,,,,,,,,,
+,,,,,,,,,
+"interlee",,,,,,,,,
+"interlee",,,,,,,,,
+"ishanprabhune",,,,,,,,,
+"ishanprabhune",,,,,,,,,
+"jakka-gunith",,,,,,,,,
+"jakka-gunith",,,,,,,,,
+"jamiedimon",,,,,,,,,
+"jamiedimon",,,,,,,,,
+"javier-moreno-frutos","1","12","2021","31","7","2022","Desarrollo de una plataforma de simulación basada en agentes para un marketplace de ride-hailing",,
+"javier-moreno-frutos","1","1","2020","31","5","2020","Proyecto Web - Próximo Conecta",,
+"javier-moreno-frutos","1","12","2021","31","7","2022","Desarrollo de una plataforma de simulación basada en agentes para un marketplace de ride-hailing",,
+"javier-moreno-frutos","1","1","2020","31","5","2020","Proyecto Web - Próximo Conecta",,
+"joel-miranda-4159801a1",,,,,,,,,
+"joel-miranda-4159801a1",,,,,,,,,
+"mauricedawson","1","6","2012","1","6","2012","Walden 2.1:  A Technological Society","Consensus of Prefrontal Cortex activity sought in Midterm Feedback by Richard Courchesne, submitted May 8, 2013:
+
+It must be evident to society that part of innovation “Life Cycle” may offer great speeds and convenience, until something better comes along; but it also eliminates the need for human cell to perform physical exertion for pay.  As less and less human cells are needed to perform the tasks of iterations the physical work will go to non-complaining 24/7 worker-robotics.  According to Ray Kurzweil, the near future will indeed be a very different place.  Breakthroughs of disruptive innovation in bio-nanotechnology and artificial intelligences projects carbon nanoparticle-organic robots that can cluster into solid exoskeleton shapes of any desired object, that is capable of performing any function that serves the needs of humankind (Kurzweil, 2005).
+
+Patterns are emerging that may suggest a direct correlation between industrial occupational downsizing, a term referring to an event when human cell jobs becomes replaced by automation; and its relationship to Kurzweil’s “Life Cycle of Innovation” to an asymptotic discreet value.  An economic paradigm shift is on the horizon as the value of work redefines (Castellani & Hafferty, 2009; Kurzweil, 2005; Joyner et al., 2013).
+",
+"mauricedawson","1","12","2013","1","5","2015","New Threats and Countermeasures in Digital Crime and Cyber Terrorism","Technological advances, although beneficial and progressive, can lead to vulnerabilities in system networks and security. While researchers attempt to find solutions, negative uses of technology continue to create new security threats to users.
+
+New Threats and Countermeasures in Digital Crime and Cyber Terrorism brings together research-based chapters and case studies on security techniques and current methods being used to identify and overcome technological vulnerabilities with an emphasis on security issues in mobile computing and online activities. This book is an essential reference source for researchers, university academics, computing professionals, and upper-level students interested in the techniques, laws, and training initiatives currently being implemented and adapted for secure computing.",
+"mauricedawson","1","1","2012","1","5","2014","Armed Personal Unmanned Ground Vehicle",,
+"mauricedawson","1","1","2011","1","5","2014","Tech Linux Research Institute","AAMU's only lab to facilitate penetration testing, cyber security, virtual learning, systems engineering, software development, and more with the use of open source software (OSS).",
+"mauricedawson","1","5","2012","1","8","2012","Logistics & Supply Chain Management Virtual Machine","This project was to develop a virtual machine (VM) for the logistics and supply chain management degree program at Alabama A&M University.  The VM contained all coursebooks, case studies, scholarly journals, and open source software (OSS) programs for the course.  This VM was developed for student and faculty use.  This program was developed as a summer research project with a forthcoming proceedings publication in the Proceedings of the 8th International Technology, Education and Development Conference in Valencia, Spain March 2014.",
+"mauricedawson","1","1","2011","1","5","2011","Unmanned Air System (UAS) Project for PROJ660 Course","This course introduced students to project cost estimation techniques. Students learned how to adjust cost estimates based on resource availability and project risk, and evaluate quality of cost estimates prepared by others.  Students learned the earned-value management technique.   Students use software package(s) to estimate costs.  The associated project was to build an Unmanned Air System (UAS), website, document, and capture all costs associated with weekly cost reports.  This course was designed to reflect a real defense project using principles of Earned Value Management (EVM) in aerospace setting.",
+"mauricedawson","1","6","2012","1","6","2012","Walden 2.1:  A Technological Society","Consensus of Prefrontal Cortex activity sought in Midterm Feedback by Richard Courchesne, submitted May 8, 2013:
+
+It must be evident to society that part of innovation “Life Cycle” may offer great speeds and convenience, until something better comes along; but it also eliminates the need for human cell to perform physical exertion for pay.  As less and less human cells are needed to perform the tasks of iterations the physical work will go to non-complaining 24/7 worker-robotics.  According to Ray Kurzweil, the near future will indeed be a very different place.  Breakthroughs of disruptive innovation in bio-nanotechnology and artificial intelligences projects carbon nanoparticle-organic robots that can cluster into solid exoskeleton shapes of any desired object, that is capable of performing any function that serves the needs of humankind (Kurzweil, 2005).
+
+Patterns are emerging that may suggest a direct correlation between industrial occupational downsizing, a term referring to an event when human cell jobs becomes replaced by automation; and its relationship to Kurzweil’s “Life Cycle of Innovation” to an asymptotic discreet value.  An economic paradigm shift is on the horizon as the value of work redefines (Castellani & Hafferty, 2009; Kurzweil, 2005; Joyner et al., 2013).
+",
+"mauricedawson","1","12","2013","1","5","2015","New Threats and Countermeasures in Digital Crime and Cyber Terrorism","Technological advances, although beneficial and progressive, can lead to vulnerabilities in system networks and security. While researchers attempt to find solutions, negative uses of technology continue to create new security threats to users.
+
+New Threats and Countermeasures in Digital Crime and Cyber Terrorism brings together research-based chapters and case studies on security techniques and current methods being used to identify and overcome technological vulnerabilities with an emphasis on security issues in mobile computing and online activities. This book is an essential reference source for researchers, university academics, computing professionals, and upper-level students interested in the techniques, laws, and training initiatives currently being implemented and adapted for secure computing.",
+"mauricedawson","1","1","2012","1","5","2014","Armed Personal Unmanned Ground Vehicle",,
+"mauricedawson","1","1","2011","1","5","2014","Tech Linux Research Institute","AAMU's only lab to facilitate penetration testing, cyber security, virtual learning, systems engineering, software development, and more with the use of open source software (OSS).",
+"mauricedawson","1","5","2012","1","8","2012","Logistics & Supply Chain Management Virtual Machine","This project was to develop a virtual machine (VM) for the logistics and supply chain management degree program at Alabama A&M University.  The VM contained all coursebooks, case studies, scholarly journals, and open source software (OSS) programs for the course.  This VM was developed for student and faculty use.  This program was developed as a summer research project with a forthcoming proceedings publication in the Proceedings of the 8th International Technology, Education and Development Conference in Valencia, Spain March 2014.",
+"mauricedawson","1","1","2011","1","5","2011","Unmanned Air System (UAS) Project for PROJ660 Course","This course introduced students to project cost estimation techniques. Students learned how to adjust cost estimates based on resource availability and project risk, and evaluate quality of cost estimates prepared by others.  Students learned the earned-value management technique.   Students use software package(s) to estimate costs.  The associated project was to build an Unmanned Air System (UAS), website, document, and capture all costs associated with weekly cost reports.  This course was designed to reflect a real defense project using principles of Earned Value Management (EVM) in aerospace setting.",
+"morgan-richards-4a3353207",,,,,,,,,
+"morgan-richards-4a3353207",,,,,,,,,
+"narendramodi",,,,,,,,,
+"narendramodi",,,,,,,,,
+"nidhi-patni-jain","1","8","2023","31","12","2023","Instacart Market Basket Analysis","Develop a recommendation system to suggest relevant products to customers based on their previous orders and preferences.
+
+Problems we are going to solve via this project.
+
+Problem 1: Find out hidden association between products for better cross-selling and upselling.
+Approach: Implement the Apriori algorithm to identify frequent item sets and generate association rules to find product associations.
+
+Problem 2 : Perform customer segmentation for targeted marketing and anticipate customer behavior.
+Approach: Utilize K-means clustering algorithm to group users based on their purchasing patterns for customer segmentation.
+
+Problem 3: Predicting which previously purchased product will be in the user’s next order.
+Approach: Using XGBoosting algorithm for product re-order prediction.
+
+Steps Involved:
+1. Initial Data Analysis
+2. Exploratory Data Analysis
+3. Feature Creation
+4. Data Preparation
+5. Market Basket Analysis
+6. Customer Segmentation
+7. XGBoost Model
+8. Principal Component Analysis",
+"nidhi-patni-jain","1","8","2023","31","12","2023","Statistical Impact of Tax Rate on Health","This study examines the relationship between restaurant and grocery tax rates and the prevalence of diabetes/obesity, addressing a notable gap in current research. With diabetes/obesity posing a significant global health challenge, understanding the impact of tax policies on food establishments becomes crucial for informed public health interventions. While extensive research has explored various determinants of diabetes/obesity, the specific role of tax rates on these establishments remains largely unexplored. This study aims to contribute to existing knowledge by investigating the potential link between tax policies and diabetes/obesity prevalence, providing insights for policymakers and healthcare professionals. The following sections detail our methodology, regression models, and implications of our findings.
+
+Methods:
+1. Data Collection
+2. Data Cleaning
+3. EDA
+4. Multiple Regression Model
+5. Model Validation and Assumption",
+"nidhi-patni-jain","1","6","2023","31","7","2023","Chicago Crime Analysis using Python","The objective of this project is to analyze crime data in Chicago and gain insights into crime patterns, trends, and hotspots. By examining the data, we aim to understand the nature of crime occurrences, identify high-crime areas, and provide recommendations for crime prevention strategies.
+This project is created in Python using Flask where user can see dynamic charts based on user selection on Chicago Crimes. This project will allow user to perform exploratory data analysis dynamically based on user selection where user has facility to select any kind of data (latitude and longitude of home and target location) for which they want to see the graph visually. APIs has been created and called dynamically based on user selections.",
+"nidhi-patni-jain","1","3","2023","31","5","2023","Happiness Prediction Analysis using R Language","I have created a detailed Data Analytics project in R language on top of Kaggle dataset ""Happiness Analysis Report of 2021"" for estimating the Happiness Score of dystopia region. This report has below modules:
+	1. Data Preparation
+	2. Data Cleaning
+	3. Exploratory Data Analysis
+	4. Hypothesis Testing
+	5. Co-relation check
+	6. Simple Linear Regression Model
+        7. Multiple Linear Regression Model
+        8. Forward Stepwise Subset Selection Linear Regression Model
+        9. Backward Stepwise Subset Selection Linear Regression Model
+        10. Model Evaluation Metrics",
+"nidhi-patni-jain","1","3","2023","31","5","2023","Insurance Management System using JFrame and Oracle SQL","I have created a Insurance Management System where users can purchase multiple policies under multiple insurance types like car, vehicle, travel under one umbrella.
+The front end is designed using JFrame and backend is designed in Oracle DB.
+
+Special features of this application:
+1. Admin Insights dashboard: In this page, admin can see the trending policy name, number of users using this application, number of policies sold.
+2. Verify Users: After the user registers on this application, admin will verify the user then only that user will be able to buy policy on the application.
+3. Bill Printing: After buying the policy from this application, the bill will get printed in pdf version.
+4. Change Profile Details: Users can change security question and password.
+
+In this application we are performing multiple DB operations like Insert, Update, Delete, Select.",
+"nidhi-patni-jain","1","8","2023","31","12","2023","Instacart Market Basket Analysis","Develop a recommendation system to suggest relevant products to customers based on their previous orders and preferences.
+
+Problems we are going to solve via this project.
+
+Problem 1: Find out hidden association between products for better cross-selling and upselling.
+Approach: Implement the Apriori algorithm to identify frequent item sets and generate association rules to find product associations.
+
+Problem 2 : Perform customer segmentation for targeted marketing and anticipate customer behavior.
+Approach: Utilize K-means clustering algorithm to group users based on their purchasing patterns for customer segmentation.
+
+Problem 3: Predicting which previously purchased product will be in the user’s next order.
+Approach: Using XGBoosting algorithm for product re-order prediction.
+
+Steps Involved:
+1. Initial Data Analysis
+2. Exploratory Data Analysis
+3. Feature Creation
+4. Data Preparation
+5. Market Basket Analysis
+6. Customer Segmentation
+7. XGBoost Model
+8. Principal Component Analysis",
+"nidhi-patni-jain","1","8","2023","31","12","2023","Statistical Impact of Tax Rate on Health","This study examines the relationship between restaurant and grocery tax rates and the prevalence of diabetes/obesity, addressing a notable gap in current research. With diabetes/obesity posing a significant global health challenge, understanding the impact of tax policies on food establishments becomes crucial for informed public health interventions. While extensive research has explored various determinants of diabetes/obesity, the specific role of tax rates on these establishments remains largely unexplored. This study aims to contribute to existing knowledge by investigating the potential link between tax policies and diabetes/obesity prevalence, providing insights for policymakers and healthcare professionals. The following sections detail our methodology, regression models, and implications of our findings.
+
+Methods:
+1. Data Collection
+2. Data Cleaning
+3. EDA
+4. Multiple Regression Model
+5. Model Validation and Assumption",
+"nidhi-patni-jain","1","6","2023","31","7","2023","Chicago Crime Analysis using Python","The objective of this project is to analyze crime data in Chicago and gain insights into crime patterns, trends, and hotspots. By examining the data, we aim to understand the nature of crime occurrences, identify high-crime areas, and provide recommendations for crime prevention strategies.
+This project is created in Python using Flask where user can see dynamic charts based on user selection on Chicago Crimes. This project will allow user to perform exploratory data analysis dynamically based on user selection where user has facility to select any kind of data (latitude and longitude of home and target location) for which they want to see the graph visually. APIs has been created and called dynamically based on user selections.",
+"nidhi-patni-jain","1","3","2023","31","5","2023","Happiness Prediction Analysis using R Language","I have created a detailed Data Analytics project in R language on top of Kaggle dataset ""Happiness Analysis Report of 2021"" for estimating the Happiness Score of dystopia region. This report has below modules:
+	1. Data Preparation
+	2. Data Cleaning
+	3. Exploratory Data Analysis
+	4. Hypothesis Testing
+	5. Co-relation check
+	6. Simple Linear Regression Model
+        7. Multiple Linear Regression Model
+        8. Forward Stepwise Subset Selection Linear Regression Model
+        9. Backward Stepwise Subset Selection Linear Regression Model
+        10. Model Evaluation Metrics",
+"nidhi-patni-jain","1","3","2023","31","5","2023","Insurance Management System using JFrame and Oracle SQL","I have created a Insurance Management System where users can purchase multiple policies under multiple insurance types like car, vehicle, travel under one umbrella.
+The front end is designed using JFrame and backend is designed in Oracle DB.
+
+Special features of this application:
+1. Admin Insights dashboard: In this page, admin can see the trending policy name, number of users using this application, number of policies sold.
+2. Verify Users: After the user registers on this application, admin will verify the user then only that user will be able to buy policy on the application.
+3. Bill Printing: After buying the policy from this application, the bill will get printed in pdf version.
+4. Change Profile Details: Users can change security question and password.
+
+In this application we are performing multiple DB operations like Insert, Update, Delete, Select.",
+"p-s-r-c",,,,,,,"Communication Service Application","This is a PEGA version 8.6 based project. My role in the project was Senior System Architect. This application helps the customer to recharge their mobiles and cancel their recharges and can also get refund. This application is developed under Pega Platform.",
+"p-s-r-c",,,,,,,"Crowdsourcing short squeeze dashboard","This project is based on Python and its libraries. My role in the project was Data Analyst. A simple dashboard is developed using Python and data libraries. The Python fundamentals, Python data structures and data in Python are used.",
+"p-s-r-c",,,,,,,"Communication Service Application","This is a PEGA version 8.6 based project. My role in the project was Senior System Architect. This application helps the customer to recharge their mobiles and cancel their recharges and can also get refund. This application is developed under Pega Platform.",
+"p-s-r-c",,,,,,,"Crowdsourcing short squeeze dashboard","This project is based on Python and its libraries. My role in the project was Data Analyst. A simple dashboard is developed using Python and data libraries. The Python fundamentals, Python data structures and data in Python are used.",
+"phalgunkollepara",,,,,,,,,
+"phalgunkollepara",,,,,,,,,
+"preetham-voleti-45836619b",,,,,,,,,
+"preetham-voleti-45836619b",,,,,,,,,
+"rajcharan-haridasu-3993a2216",,,,,,,,,
+"rajcharan-haridasu-3993a2216",,,,,,,,,
+"rajeshgopinathan",,,,,,,,,
+"rajeshgopinathan",,,,,,,,,
+"rdedhia1",,,,,,,"Healthcare Power BI Dashboard","The Healthcare Power BI Dashboard is a user-friendly tool crafted to help Hospital Management Teams track patient visits, equipment availability, revenue, appointment waiting times, and feedback on medical services. Using Power BI and Excel, I built this dashboard with easy-to-understand visuals and smart features like filters for better analysis. The goal is to assist managers in making smarter decisions by providing clear insights into hospital operations.",
+"rdedhia1",,,,,,,"IIT-Merchandise Inventory Management System","The ""IIT-Merchandise Inventory Management System"" is a web-based solution developed to address inventory management challenges at IIT, encompassing stock level tracking, product availability monitoring, and efficient order processing. By leveraging Oracle Developer and PHP, I built a smart Inventory Management System, showcasing strong SQL skills. This system streamlines merchandise tracking and sales processes, enhancing operational efficiency and optimizing inventory management for IIT's merchandise stores and facilities, ultimately contributing to smoother operations and inventory control.",
+"rdedhia1",,,,,,,"Healthcare Power BI Dashboard","The Healthcare Power BI Dashboard is a user-friendly tool crafted to help Hospital Management Teams track patient visits, equipment availability, revenue, appointment waiting times, and feedback on medical services. Using Power BI and Excel, I built this dashboard with easy-to-understand visuals and smart features like filters for better analysis. The goal is to assist managers in making smarter decisions by providing clear insights into hospital operations.",
+"rdedhia1",,,,,,,"IIT-Merchandise Inventory Management System","The ""IIT-Merchandise Inventory Management System"" is a web-based solution developed to address inventory management challenges at IIT, encompassing stock level tracking, product availability monitoring, and efficient order processing. By leveraging Oracle Developer and PHP, I built a smart Inventory Management System, showcasing strong SQL skills. This system streamlines merchandise tracking and sales processes, enhancing operational efficiency and optimizing inventory management for IIT's merchandise stores and facilities, ultimately contributing to smoother operations and inventory control.",
+"reidhoffman",,,,,,,,,
+"reidhoffman",,,,,,,,,
+"renuka-suresh-adigesula",,,,,,,,,
+"renuka-suresh-adigesula",,,,,,,,,
+"roygori",,,,,,,,,
+"roygori",,,,,,,,,
+"satyanadella",,,,,,,,,
+"satyanadella",,,,,,,,,
+"shwetha-muralitharan","1","11","2023","30","11","2023","Credit Card Fraud Detection","•	Implemented feature reduction techniques on credit card transaction dataset, resulting in the identification of key features utilized in various machine learning algorithms. Utilized Random Forest algorithm with a precision rate of 90% for fraud detection.
+•	Utilized Python programming language to preprocess and clean credit card transaction data, ensuring high-quality input for machine learning models. Achieved a recall rate of 85% using Support Vector Machine algorithm for accurate fraud prediction.",
+"shwetha-muralitharan","1","2","2023","30","4","2023","Retail Data analytics using Machine Learning","•	Implemented the Decision Tree algorithm with an unprecedented accuracy rate of 99% for predicting future sales, enabling better forecasting and strategic planning for optimizing revenue streams.
+•	Collaborated with cross-functional teams to leverage findings from feature reduction analysis and algorithm testing to create actionable insights that resulted in a 20% increase in sales forecasting precision.",
+"shwetha-muralitharan","1","11","2023","30","11","2023","Credit Card Fraud Detection","•	Implemented feature reduction techniques on credit card transaction dataset, resulting in the identification of key features utilized in various machine learning algorithms. Utilized Random Forest algorithm with a precision rate of 90% for fraud detection.
+•	Utilized Python programming language to preprocess and clean credit card transaction data, ensuring high-quality input for machine learning models. Achieved a recall rate of 85% using Support Vector Machine algorithm for accurate fraud prediction.",
+"shwetha-muralitharan","1","2","2023","30","4","2023","Retail Data analytics using Machine Learning","•	Implemented the Decision Tree algorithm with an unprecedented accuracy rate of 99% for predicting future sales, enabling better forecasting and strategic planning for optimizing revenue streams.
+•	Collaborated with cross-functional teams to leverage findings from feature reduction analysis and algorithm testing to create actionable insights that resulted in a 20% increase in sales forecasting precision.",
+"sowjanya-msl-593000179",,,,,,,"Fitness Tracking Application","Developed an application on fitness track of the customer performing his/her workout each day. It has register/login pages, customer can view what kinds of workouts the app offers, learn about them and proceed performing the same. Also, this has a history section to track their progress. We have used Java and firebase authentication technique to maintain the integrity of the data of each customer.",
+"sowjanya-msl-593000179",,,,,,,"Twitter Sentimental Analysis","This analysis is performed on the tweets on the “Supernatural” web series. It’s a sentimental analysis on a data set that has 1.6 million tweets with attributes like polarity, ID, date, query, user, and text. This analysis is done by performing Data Cleaning, Preprocessing, Feature Extraction, Prediction and Evaluation. We have used Python to perform Logistic Regression and 5 other models and decided the best model among them to perform this analysis using evaluation Metrics (Accuracy).",
+"sowjanya-msl-593000179",,,,,,,"Fitness Tracking Application","Developed an application on fitness track of the customer performing his/her workout each day. It has register/login pages, customer can view what kinds of workouts the app offers, learn about them and proceed performing the same. Also, this has a history section to track their progress. We have used Java and firebase authentication technique to maintain the integrity of the data of each customer.",
+"sowjanya-msl-593000179",,,,,,,"Twitter Sentimental Analysis","This analysis is performed on the tweets on the “Supernatural” web series. It’s a sentimental analysis on a data set that has 1.6 million tweets with attributes like polarity, ID, date, query, user, and text. This analysis is done by performing Data Cleaning, Preprocessing, Feature Extraction, Prediction and Evaluation. We have used Python to perform Logistic Regression and 5 other models and decided the best model among them to perform this analysis using evaluation Metrics (Accuracy).",
+"sukanya-marati",,,,,,,,,
+"sukanya-marati",,,,,,,,,
+"surya-merala",,,,,,,,,
+"surya-merala",,,,,,,,,
+"varshcs",,,,,,,"Data Driven Decision Making: Comprehensive Data Analysis & Linear Regression Modeling","•	Conducted thorough data analysis on a Kaggle dataset, skillfully managing over 1000 observations and addressing missing values, showcasing proficiency in data cleaning and preprocessing.
+•	Developed a predictive linear regression model using R, demonstrating expertise in machine learning and statistical modeling for insightful decision-making.
+•	Applied advanced data visualization techniques and hypothesis testing, contributing to the interpretation of results, and providing actionable insights for data-driven strategies",
+"varshcs",,,,,,,"Data-Driven Investing: Leveraging Machine Learning for Stock Price Predictions from social media.","•	Implemented Python packages including NLTK (Natural Language Tool Kit), Pandas, NumPy, Scikit-Learn, Matplotlib, and TensorFlow for data preprocessing, analysis, and machine learning.
+•	Executed evaluation plans involving dataset collection, NLTK preprocessing, word embedding with Count Vectorizer, and implementation of classifiers such as Random Forest, Multinomial Naive Bayes, Logistic Regression, and Support Vector Classifier.
+•	Evaluated model performance using metrics such as accuracy, precision, recall, F1-Score, and ROC Curve, considering bullish, bearish, and neutral sentiments, as well as the current market trend.
+•	Analyzed how sentiment is assigned to trades and contributed to a better understanding of tweet sentiment's impact on stock trends versus the market benchmark.",
+"varshcs",,,,,,,"Data Driven Decision Making: Comprehensive Data Analysis & Linear Regression Modeling","•	Conducted thorough data analysis on a Kaggle dataset, skillfully managing over 1000 observations and addressing missing values, showcasing proficiency in data cleaning and preprocessing.
+•	Developed a predictive linear regression model using R, demonstrating expertise in machine learning and statistical modeling for insightful decision-making.
+•	Applied advanced data visualization techniques and hypothesis testing, contributing to the interpretation of results, and providing actionable insights for data-driven strategies",
+"varshcs",,,,,,,"Data-Driven Investing: Leveraging Machine Learning for Stock Price Predictions from social media.","•	Implemented Python packages including NLTK (Natural Language Tool Kit), Pandas, NumPy, Scikit-Learn, Matplotlib, and TensorFlow for data preprocessing, analysis, and machine learning.
+•	Executed evaluation plans involving dataset collection, NLTK preprocessing, word embedding with Count Vectorizer, and implementation of classifiers such as Random Forest, Multinomial Naive Bayes, Logistic Regression, and Support Vector Classifier.
+•	Evaluated model performance using metrics such as accuracy, precision, recall, F1-Score, and ROC Curve, considering bullish, bearish, and neutral sentiments, as well as the current market trend.
+•	Analyzed how sentiment is assigned to trades and contributed to a better understanding of tweet sentiment's impact on stock trends versus the market benchmark.",
+"vempati-hemapavani","1","2","2023","30","4","2023","Happiness Prediction Analysis using R Language","I have created an extensive data analytics project utilizing the R programming language, centered around the Kaggle dataset titled 'Happiness Analysis Report of 2021.' The primary objective of this endeavor is to calculate the Happiness Score for the dystopia region. The project is organized into the subsequent modules:
+
+1) Data Preparation
+2) Data Cleaning
+3) Exploratory Data Analysis
+4) Hypothesis Testing
+5) Correlation Analysis
+6) Simple Linear Regression Model
+7) Multiple Linear Regression Model
+8) Forward Stepwise Subset Selection Linear Regression Model
+9) Backward Stepwise Subset Selection Linear Regression Model
+10) Model Evaluation Metrics",
+"vempati-hemapavani","1","2","2023","30","4","2023","Insurance Management System using JFrame and Oracle SQL","I developed an Insurance Management System that allows users to purchase multiple policies across various insurance categories, including car, vehicle, and travel, all within a single platform. The frontend of the system is built using JFrame, while the backend relies on Oracle DB.
+
+Key features of this application include:
+
+1) Admin Insights Dashboard: This dashboard provides administrators with real-time insights into trending policy names, the number of users utilizing the application, and the total number of policies sold.
+2) User Verification: To ensure security, users must undergo an admin verification process after registration before they can make policy purchases within the application.
+3) Bill Generation: Upon purchasing a policy through the application, users receive a downloadable PDF version of their bill.
+4) Profile Information Modification: Users have the capability to change their security questions and passwords.
+
+The application involves a variety of database operations, including insertion, updating, deletion, and selection.",
+"vempati-hemapavani","1","7","2017","31","3","2018","LightSmart - An IoT based Smart and Efficient Street Light Automation using Cloud","Intelligent smart street light system works in such a way that street lights will be automatically controlled (ON/OFF) by the centralized control for example: Android app, so that we can minimize the energy consumption to maximum extent, and the most important part of my project is that the live data of the project i.e: information regarding to light system will be sent to cloud to manage the controlling system more effectively and an android app is used to control the central working of the system. This project is aimed at conserving the energy, and effectively maintaining the street light system in an intelligent way where manual work will be minimized with the advent of automation technology.",
+"vempati-hemapavani","1","6","2017","31","7","2017","Data Analytics using BIGDATA - HADOOP","• Hands on experience in installing, configuring and using Apache HADOOP ecosystem components like HDFS, Hadoop Map-Reduce, Hive, Sqoop, Pig, HBase, Flume, Spark. 
+• Expertise in writing Hadoop Jobs for analyzing data using Map-Reduce and Pig.
+• Worked with Map Reduce programs using Apache Hadoop for working with Big Data. 
+• Hands on experience in importing and exporting data using Sqoop from HDFS to Relational Database Systems(RDBMS) and vice-versa.
+• Good understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node and Map Reduce concepts. 
+• Involved in running Hadoop jobs for processing millions of records of text data.
+• Involved in creating Hive tables, and loading and analyzing data using hive queries.
+• Extracted files from MySQL and placed in HDFS and processed. 
+• Analyzing large data sets by running Hive queries and Pig scripts.
+• Involved in loading data from LINUX file system to HDFS.",
+"vempati-hemapavani","1","5","2017","30","6","2017","Multi-Banking Transaction System using ASP.Net - C#","Multi-Banking Transaction System is a platform where all banks across the world are integrated into one single platform, where anyone with Bank Account from any BANK across the world can make transactions here and explore the services provided by Multi-Banking Transaction System and its services are highly secured. So, all are invited here to create an account for free and explore our services.",
+"vempati-hemapavani","1","5","2017","30","6","2017","Placement Activity System using JAVA","This Project is aimed at developing an online placement portal for the Placement department of the University and can be accessed by the organization itself and others as well with proper login credentials provided. This system can be used as an application for the PO (Placement Officer) of the University to manage the student information with regards to placements. Students login can able to upload their information in the form of a CV. Visitors/Company representatives login may also access/search any information put up by Students. Totally, this system is focused on Placement Procedure carried out in any University/College.",
+"vempati-hemapavani","1","2","2023","30","4","2023","Happiness Prediction Analysis using R Language","I have created an extensive data analytics project utilizing the R programming language, centered around the Kaggle dataset titled 'Happiness Analysis Report of 2021.' The primary objective of this endeavor is to calculate the Happiness Score for the dystopia region. The project is organized into the subsequent modules:
+
+1) Data Preparation
+2) Data Cleaning
+3) Exploratory Data Analysis
+4) Hypothesis Testing
+5) Correlation Analysis
+6) Simple Linear Regression Model
+7) Multiple Linear Regression Model
+8) Forward Stepwise Subset Selection Linear Regression Model
+9) Backward Stepwise Subset Selection Linear Regression Model
+10) Model Evaluation Metrics",
+"vempati-hemapavani","1","2","2023","30","4","2023","Insurance Management System using JFrame and Oracle SQL","I developed an Insurance Management System that allows users to purchase multiple policies across various insurance categories, including car, vehicle, and travel, all within a single platform. The frontend of the system is built using JFrame, while the backend relies on Oracle DB.
+
+Key features of this application include:
+
+1) Admin Insights Dashboard: This dashboard provides administrators with real-time insights into trending policy names, the number of users utilizing the application, and the total number of policies sold.
+2) User Verification: To ensure security, users must undergo an admin verification process after registration before they can make policy purchases within the application.
+3) Bill Generation: Upon purchasing a policy through the application, users receive a downloadable PDF version of their bill.
+4) Profile Information Modification: Users have the capability to change their security questions and passwords.
+
+The application involves a variety of database operations, including insertion, updating, deletion, and selection.",
+"vempati-hemapavani","1","7","2017","31","3","2018","LightSmart - An IoT based Smart and Efficient Street Light Automation using Cloud","Intelligent smart street light system works in such a way that street lights will be automatically controlled (ON/OFF) by the centralized control for example: Android app, so that we can minimize the energy consumption to maximum extent, and the most important part of my project is that the live data of the project i.e: information regarding to light system will be sent to cloud to manage the controlling system more effectively and an android app is used to control the central working of the system. This project is aimed at conserving the energy, and effectively maintaining the street light system in an intelligent way where manual work will be minimized with the advent of automation technology.",
+"vempati-hemapavani","1","6","2017","31","7","2017","Data Analytics using BIGDATA - HADOOP","• Hands on experience in installing, configuring and using Apache HADOOP ecosystem components like HDFS, Hadoop Map-Reduce, Hive, Sqoop, Pig, HBase, Flume, Spark. 
+• Expertise in writing Hadoop Jobs for analyzing data using Map-Reduce and Pig.
+• Worked with Map Reduce programs using Apache Hadoop for working with Big Data. 
+• Hands on experience in importing and exporting data using Sqoop from HDFS to Relational Database Systems(RDBMS) and vice-versa.
+• Good understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node and Map Reduce concepts. 
+• Involved in running Hadoop jobs for processing millions of records of text data.
+• Involved in creating Hive tables, and loading and analyzing data using hive queries.
+• Extracted files from MySQL and placed in HDFS and processed. 
+• Analyzing large data sets by running Hive queries and Pig scripts.
+• Involved in loading data from LINUX file system to HDFS.",
+"vempati-hemapavani","1","5","2017","30","6","2017","Multi-Banking Transaction System using ASP.Net - C#","Multi-Banking Transaction System is a platform where all banks across the world are integrated into one single platform, where anyone with Bank Account from any BANK across the world can make transactions here and explore the services provided by Multi-Banking Transaction System and its services are highly secured. So, all are invited here to create an account for free and explore our services.",
+"vempati-hemapavani","1","5","2017","30","6","2017","Placement Activity System using JAVA","This Project is aimed at developing an online placement portal for the Placement department of the University and can be accessed by the organization itself and others as well with proper login credentials provided. This system can be used as an application for the PO (Placement Officer) of the University to manage the student information with regards to placements. Students login can able to upload their information in the form of a CV. Visitors/Company representatives login may also access/search any information put up by Students. Totally, this system is focused on Placement Procedure carried out in any University/College.",
+"venkata-sai-deep-gaddipati-654826249",,,,,,,,,
+"venkata-sai-deep-gaddipati-654826249",,,,,,,,,
+"vinay-kasa-254452148",,,,,,,,,
+"vinay-kasa-254452148",,,,,,,,,
+"vinutha-b-191b03210","1","6","2023","31","8","2023","Chicago Crime Data","Data Analysis Project Completion: Accomplished a comprehensive data analysis and visualization initiative utilizing Python, with a specific focus on crime data originating from the city of Chicago.
+End-to-End Data Handling: Applied adept data collection techniques, proficient data processing methods, and cutting-edge data visualization tools to distill insightful patterns and trends from an extensive dataset of crime records in Chicago. Interactive GUI Implementation: Designed and implemented an engaging graphical user interface (GUI) to empower users in exploring and visualizing crime trends across various neighborhoods in Chicago. 
+Diverse Visualization Techniques: Employed a variety of visualization methods, including bar charts, pie charts, and line graphs, to effectively convey critical insights derived from the crime data. Communication of Key Findings: Successfully communicated key findings and patterns within the crime data through visually compelling and accessible graphical representations. 
+Holistic Project Contribution: Played a pivotal role in all aspects of the project, from data extraction and processing to the development of an interactive GUI, showcasing proficiency in data analytics and visualization.",
+"vinutha-b-191b03210","1","1","2023","31","5","2023","Big Data Engineering with PySpark and Minio","End-to-End Data Engineering: Comprehensive project leveraging PySpark and Minio for processing and storing vast datasets.
+Efficient Parsing and Transformation: Successfully parsed and transformed raw text records into various formats within the Minio Object Storage System.
+Diverse Functionalities: Encompassed a range of functionalities, including schema design, performance optimization, database connectivity, and data analytics.
+Schema Design and Integration: Designed and integrated data schemas for structured representation of CSV and JSON files.
+Performance Optimization: Conducted performance analysis, optimizing Spark job execution through varied runtime parameters.
+Seamless Database Connectivity: Established seamless connectivity to a MariaDB server, extracting and processing data for real-world applications.
+Insightful Data Analytics with Spark SQL: Utilized Spark SQL for insightful data analytics, extracting key metrics from processed datasets.",
+"vinutha-b-191b03210","1","6","2023","31","8","2023","Chicago Crime Data","Data Analysis Project Completion: Accomplished a comprehensive data analysis and visualization initiative utilizing Python, with a specific focus on crime data originating from the city of Chicago.
+End-to-End Data Handling: Applied adept data collection techniques, proficient data processing methods, and cutting-edge data visualization tools to distill insightful patterns and trends from an extensive dataset of crime records in Chicago. Interactive GUI Implementation: Designed and implemented an engaging graphical user interface (GUI) to empower users in exploring and visualizing crime trends across various neighborhoods in Chicago. 
+Diverse Visualization Techniques: Employed a variety of visualization methods, including bar charts, pie charts, and line graphs, to effectively convey critical insights derived from the crime data. Communication of Key Findings: Successfully communicated key findings and patterns within the crime data through visually compelling and accessible graphical representations. 
+Holistic Project Contribution: Played a pivotal role in all aspects of the project, from data extraction and processing to the development of an interactive GUI, showcasing proficiency in data analytics and visualization.",
+"vinutha-b-191b03210","1","1","2023","31","5","2023","Big Data Engineering with PySpark and Minio","End-to-End Data Engineering: Comprehensive project leveraging PySpark and Minio for processing and storing vast datasets.
+Efficient Parsing and Transformation: Successfully parsed and transformed raw text records into various formats within the Minio Object Storage System.
+Diverse Functionalities: Encompassed a range of functionalities, including schema design, performance optimization, database connectivity, and data analytics.
+Schema Design and Integration: Designed and integrated data schemas for structured representation of CSV and JSON files.
+Performance Optimization: Conducted performance analysis, optimizing Spark job execution through varied runtime parameters.
+Seamless Database Connectivity: Established seamless connectivity to a MariaDB server, extracting and processing data for real-world applications.
+Insightful Data Analytics with Spark SQL: Utilized Spark SQL for insightful data analytics, extracting key metrics from processed datasets.",
+"williamhgates",,,,,,,,,
+"williamhgates",,,,,,,,,
+"yashraj-diwate",,,,,,,,,
+"yashraj-diwate",,,,,,,,,
+"yuhan-ding-2122b588",,,,,,,,,
+"yuhan-ding-2122b588",,,,,,,,,
