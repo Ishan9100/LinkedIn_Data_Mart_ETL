@@ -18,9 +18,18 @@ The data pipeline involves the following key stages:
 2. **Stage Pipeline**: Organizes and structures the incoming data.
 3. **Extract Pipeline**: Extracts the required data from the JSON files and loads it into SQL tables.
 
+![ETL Pipleline - Snapshot 1](LinkedIn_Data_Mart/1ETL_Main_Pipeline.png)  
+*Overview of main ETL pipleline*
+
 ## Tables Created
 We have created the following tables based on the LinkedIn profile JSON data:
-- [List the table names here]
+- [Education, Experience, Demographic, Projects, Certifications, Languages, Patents, Publications, Awards]
+
+![SQL tables - Snapshot 2](LinkedIn_Data_Mart/2ETL_SQL_tables.png)  
+*Overview of SQL Tables*
+
+![Json Scripts - Snapshot 3](LinkedIn_Data_Mart/3ETL_Json.png)  
+*Overview of Json Scripts*
 
 These tables store the necessary information such as individual profiles, companies, certifications, and more.
 
@@ -30,6 +39,9 @@ The ETL process uses **Pentaho (Kettle)** to connect, parse, and load the data i
 - **Stage**: Prepares the data for extraction.
 - **Extract**: Extracts data from the LinkedIn JSON profile files and loads it into the tables.
 
+![ETL Pipleline - Snapshot 4](LinkedIn_Data_Mart/4ETL_extraction_experience.png)  
+*Overview of experience data ETL pipleline*
+
 ### Flow of the Pipeline
 When the main parsing pipeline is executed:
 1. The **Refresh** pipeline triggers the **Stage** pipeline.
@@ -37,6 +49,9 @@ When the main parsing pipeline is executed:
 3. Finally, the **Extract** pipeline loads the parsed data into the respective SQL tables.
 
 Once the entire pipeline is run, all necessary tables are populated with relevant data.
+
+![ETL Pipleline - Snapshot 5](LinkedIn_Data_Mart/5ETL_pipeline_success.png)  
+*Successful run of main ETL pipleline*
 
 ## Data Visualization
 For visualizing the data, we connect the MySQL database to **Power BI**. The visualizations created include:
