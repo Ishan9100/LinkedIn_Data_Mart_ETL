@@ -3,6 +3,9 @@
 ## Overview
 This project involves building an ETL (Extract, Transform, Load) pipeline to process LinkedIn profile data stored in JSON files. We use Pentaho (Kettle) for the ETL process to extract relevant data, populate SQL tables, and visualize the results using Power BI.
 
+![ETL Pipleline Design](LDMPD.png)  
+*Design of the ETL pipleline project*
+
 ## Table of Contents
 - [Overview](#overview)
 - [Data Pipeline](#data-pipeline)
