@@ -61,7 +61,7 @@ For visualizing the data, we connect the MySQL database to **Power BI**. The vis
 - **Bar Chart**: Shows the count of certifications and the respective companies providing them.
 - **Search Capability**: Allows users to search by individual names or schools, displaying the relevant data.
 
-![Linkedin Insights Dashboard](ldm.png)
+![Linkedin Insights Dashboard]()
 
 ## Technologies Used
 - **Pentaho (Kettle)**: For building the ETL pipeline.
